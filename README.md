@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Humans !
+
+Tarun here. I just created my GitHub account.
